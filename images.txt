@@ -8,3 +8,4 @@ nginx
 
 rustdesk/rustdesk-server:latest
 v5star/rustdesk-api
+lejianwen/rustdesk-api
