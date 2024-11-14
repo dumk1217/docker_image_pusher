@@ -11,3 +11,4 @@ rustdesk/rustdesk-server-pro:latest
 
 v5star/rustdesk-api
 lejianwen/rustdesk-api
+newfuture/ddns
