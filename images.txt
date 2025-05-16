@@ -10,7 +10,10 @@ rustdesk/rustdesk-server:latest
 rustdesk/rustdesk-server-pro:latest
 
 v5star/rustdesk-api
+
 lejianwen/rustdesk-api
+lejianwen/rustdesk-server
+
 newfuture/ddns
 jeessy/ddns-go
 neilpang/acme.sh
