@@ -18,4 +18,4 @@ newfuture/ddns
 jeessy/ddns-go
 neilpang/acme.sh
 
-olbat cupsd
+olbat/cupsd
