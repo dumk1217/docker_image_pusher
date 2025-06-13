@@ -17,4 +17,5 @@ lejianwen/rustdesk-server
 newfuture/ddns
 jeessy/ddns-go
 neilpang/acme.sh
- 
+
+olbat cupsd
